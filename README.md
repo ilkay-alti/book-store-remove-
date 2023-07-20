@@ -25,14 +25,12 @@ Eğer projeye katkıda bulunmak isterseniz, lütfen depomuzu çatallayın (fork)
 
 ## Lisans
 
-Bu proje açık kaynaklıdır ve [MIT Lisansı](https://github.com/kullanici_adi/book-shop/blob/main/LICENSE) altında lisanslanmıştır.
+Bu proje açık kaynaklıdır ve [MIT Lisansı](https://github.com/ilkay-alti/book-store/blob/master/LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-Sorularınız, önerileriniz veya geri bildirimleriniz için bize [ilkayalti@hotmail.com](ilkay:ilkayalti@hotmail.com) adresinden ulaşabilirsiniz.
+Sorularınız, önerileriniz veya geri bildirimleriniz için bize [ilkayalti@hotmail.com](mailto:ilkayalti@hotmail.com) adresinden ulaşabilirsiniz.
 
 ---
 
 Geliştirmeye katılmak için teşekkür ederiz! Mutlu kodlamalar ve keyifli alışverişler! 📖🌟
-
-[Proje URL'nizi ve diğer ilgili bağlantıları buraya ekleyin]
