@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Book-Shop: Next.js 13 ile TypeScript, ESLint ve Husky Kullanılarak Oluşturulan Proje 📚🛍️
 
-## Getting Started
+Book-Shop, modern web teknolojilerini kullanarak oluşturulmuş açık kaynaklı bir online kitapçı projesidir. Bu uygulama, kullanıcıların çeşitli kitapları keşfetmelerini ve satın almalarını kolaylaştırmayı hedefler. Next.js 13, TypeScript, ESLint ve Husky gibi güçlü araçlarla geliştirilmiş olması sayesinde yüksek performanslı, güvenilir ve tutarlı bir deneyim sunar.
 
-First, run the development server:
+## Özellikler
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- 🚀 Next.js 13 ile oluşturulmuş hızlı ve performans odaklı bir uygulama
+- 💡 TypeScript desteği ile güçlü statik tip kontrolü ve geliştirme deneyimi
+- 🔍 Güçlü arama özelliği ile kitap kataloğunu hızlıca keşfedin
+- 🛒 Alışveriş sepeti yönetimi ve güvenli ödeme entegrasyonu
+- 👨‍💼 Kullanıcı hesapları ve sipariş geçmişi yönetimi
+- 🎨 Kullanıcı dostu arayüz ve mobil uyumluluğuyla keyifli gezinme deneyimi
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Kurulum
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Bu depoyu klonlayın: `git clone https://github.com/kullanici_adi/book-shop.git`
+2. Proje dizinine gidin: `cd book-shop`
+3. Gerekli bağımlılıkları yüklemek için: `npm install`
+4. Uygulamayı başlatın: `npm run dev`
+5. Tarayıcınızda `http://localhost:3000` adresine gidin ve Book-Shop'u keşfetmeye başlayın!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Katkı Sağlama
 
-## Learn More
+Eğer projeye katkıda bulunmak isterseniz, lütfen depomuzu çatallayın (fork) ve pull talepleri gönderin. Lütfen katkı kurallarımızı ve rehberlerimizi okuyarak sürece katılın. Tüm katkılarınızı takdir ediyoruz!
 
-To learn more about Next.js, take a look at the following resources:
+## Lisans
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Bu proje açık kaynaklıdır ve [MIT Lisansı](https://github.com/kullanici_adi/book-shop/blob/main/LICENSE) altında lisanslanmıştır.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## İletişim
 
-## Deploy on Vercel
+Sorularınız, önerileriniz veya geri bildirimleriniz için bize [ilkayalti@hotmail.com](ilkay:ilkayalti@hotmail.com) adresinden ulaşabilirsiniz.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Geliştirmeye katılmak için teşekkür ederiz! Mutlu kodlamalar ve keyifli alışverişler! 📖🌟
+
+[Proje URL'nizi ve diğer ilgili bağlantıları buraya ekleyin]
